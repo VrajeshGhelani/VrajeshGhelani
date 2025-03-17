@@ -1,4 +1,4 @@
-# Hello
+
 <h1 align="center">Hello 👋, I'm Vrajesh Ghelani</h1> 
 <h3 align="center">A Passionate Software Engineer From India.</h3> 
  
