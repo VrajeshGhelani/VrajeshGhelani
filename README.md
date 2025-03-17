@@ -8,7 +8,7 @@
 - 📄 Resume : [Resume]()
 - 📫 How to reach me vrajeshghelani6125@gmail.com  
 - ⚡ LeetCode : [LeetCode](https://leetcode.com/u/23IT034/)
-- ⚡ GeeksforGeeks : [GeeksforGeeks](https://www.geeksforgeeks.org/user/dobariyawave/)
+- ⚡ HakerRank : [HakerRank](https://www.hackerrank.com/profile/23IT034)
 - 🤝 I’m looking to collaborate on *Open Source Projects* 
 
 <h2 align="left">Connect with me </h2>
