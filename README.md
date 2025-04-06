@@ -5,7 +5,7 @@
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanshuvaliya&label=Profile%20views&color=0e75b6&style=flat" alt="priyanshuvaliya" /> </p> -->
   
 - 👨‍💻 Portfolio : [portfoli.me]()
-- 📄 Resume : [Resume]([https://drive.google.com/drive/u/0/folders/1ReDsV9dITIbZGXoCJV0W0vP2s_UaBqKY](https://drive.google.com/drive/u/0/folders/1ReDsV9dITIbZGXoCJV0W0vP2s_UaBqKY))
+- 📄 Resume : [Resume](https://drive.google.com/drive/u/0/folders/1ReDsV9dITIbZGXoCJV0W0vP2s_UaBqKY)
 - 📫 How to reach me vrajeshghelani6125@gmail.com  
 - ⚡ LeetCode : [LeetCode](https://leetcode.com/u/23IT034/)
 - ⚡ HakerRank : [HakerRank](https://www.hackerrank.com/profile/23IT034)
