@@ -38,6 +38,7 @@
 
 - [Weather_App](https://weather-app-hazel-five-80.vercel.app/)
 - [TIC TAC TOE](https://tic-tac-toe-amber-nine.vercel.app/)
+- [Gemini-Clone](https://gemini-clone-opal-three.vercel.app)
 <!--
 **VrajeshGhelani/VrajeshGhelani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
