@@ -37,6 +37,7 @@
 <h2 align="left">My Projects :</h2> 
 
 - [Expense_Splitter_App](https://expense-splitter-app-psi.vercel.app)
+- [Novark](https://novark-azure.vercel.app)
 - [Weather_App](https://weather-app-hazel-five-80.vercel.app/)
 - [TIC TAC TOE](https://tic-tac-toe-amber-nine.vercel.app/)
 - [Gemini-Clone](https://gemini-clone-opal-three.vercel.app)
