@@ -38,6 +38,7 @@
 
 - [Expense_Splitter_App](https://expense-splitter-app-psi.vercel.app)
 - [Novark](https://novark-final.vercel.app)
+- [SBC WorkFlow Mobile App](https://sbc-workflow-123.web.app/)
 - [Weather_App](https://weather-app-hazel-five-80.vercel.app/)
 - [TIC TAC TOE](https://tic-tac-toe-amber-nine.vercel.app/)
 - [Gemini-Clone](https://gemini-clone-opal-three.vercel.app)
