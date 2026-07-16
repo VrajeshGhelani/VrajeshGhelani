@@ -4,7 +4,7 @@
  
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanshuvaliya&label=Profile%20views&color=0e75b6&style=flat" alt="priyanshuvaliya" /> </p> -->
   
-- 👨‍💻 Portfolio : [portfoli.me](https://vg-portfolio-six.vercel.app)
+- 👨‍💻 Portfolio : [portfoli.me](https://vg2209.vercel.app)
 - 📄 Resume : [Resume](https://drive.google.com/file/d/19fit-LWHZxcVTIv-djjHYht_9YyjUI51/view?usp=sharing)
 - 📫 How to reach me vrajeshghelani6125@gmail.com  
 - ⚡ LeetCode : [LeetCode](https://leetcode.com/u/23IT034/)
