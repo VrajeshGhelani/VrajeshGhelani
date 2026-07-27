@@ -128,5 +128,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VrajeshGhelani&theme=radical" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=VrajeshGhelani&theme=radical" />
 </p>
