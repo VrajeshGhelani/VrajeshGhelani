@@ -113,7 +113,7 @@
 | 🧾 Expense Splitter App | [Visit ↗](https://expense-splitter-app-psi.vercel.app) |
 | 📝 Novark | [Visit ↗](https://novark-final.vercel.app) |
 | 🏢 SBC WorkFlow Mobile App | [Visit ↗](https://sbc-workflow-123.web.app/) |
-| ☀️ Weather App | [Visit ↗](https://weather-app-hazel-five-80.vercel.app/) |
+| ☀️ SkyCast Weather App | [Visit ↗](https://sky-cast-weather-app-rose.vercel.app/) |
 | ⭕ Tic Tac Toe | [Visit ↗](https://tic-tac-toe-amber-nine.vercel.app/) |
 | ✨ Gemini Clone | [Visit ↗](https://gemini-clone-opal-three.vercel.app) |
 | 💧 Copia Water | [Visit ↗](https://copia-kappa.vercel.app/) |
